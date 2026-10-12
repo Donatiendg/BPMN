@@ -1,1 +1,8 @@
-
+{
+  "owner": {
+    "username": "donatiendg"
+  },
+  "record": {
+    "CNAME": "ton-tunnel-id.cfargotunnel.com"
+  }
+}
